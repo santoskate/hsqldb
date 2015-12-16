@@ -1,0 +1,12 @@
+#
+#
+#
+#
+# @author CatarinaSantos
+# @version 0.0.1
+#
+# message parts
+0001=Bem-vindo!
+0002=O recibo $$ foi criado com sucesso.
+0003=O recibo $$ tem um montante inválido.
+0004=O recibo $$ tem $$ itens inválidos.

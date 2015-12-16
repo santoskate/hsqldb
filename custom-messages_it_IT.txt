@@ -1,0 +1,12 @@
+#
+#
+#
+#
+# @author CatarinaSantos
+# @version 0.0.1
+#
+# message parts
+0001=Vous êtes le bienvenu ITALIANO!
+0002=La réception $$ a été créé avec succès.  ITALIANO
+0003=Le $$ réception a une quantité non valide.  ITALIANO
+0004=La réception $$ dispose de $$ éléments non valides. ITALIANO

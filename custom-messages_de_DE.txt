@@ -1,0 +1,12 @@
+#
+#
+#
+#
+# @author CatarinaSantos
+# @version 0.0.1
+#
+# message parts
+0001=germany!
+0002=germany.
+0003=germany222 $$ $$.
+0004=germany $$.
