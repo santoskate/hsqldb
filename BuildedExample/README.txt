@@ -1,8 +1,9 @@
-1. Execute: run_server_hsqlfb.bat
-2. Execute: run_DBManager_hsqlfb.bat
-3. 	Recent: HSQL Database Engine
-	Type: HSQL Database Engine WebServer
-	URL: jdbc:hsqldb:http://localhost:88/moss_test
+1. Execute: run_server_hsqlfb.bat (Server)
+2. Execute: run_DBManager_hsqlfb.bat (SQBD)
+3. On SGBD connection screen:
+	Recent -> HSQL Database Engine
+	Type -> HSQL Database Engine WebServer
+	URL -> jdbc:hsqldb:http://localhost:88/moss_test
 4. OK
 
 Ready to test database with new I18n module!
