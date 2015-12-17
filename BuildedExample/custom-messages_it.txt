@@ -1,0 +1,12 @@
+#
+#
+#
+#
+# @author CatarinaSantos
+# @version 0.0.1
+#
+# message parts
+0001=Benvenuto!
+0002=La ricevuta $$ è stato creato con successo.
+0003=La ricevuta $$ ha un importo errato.
+0004=La ricevuta $$ ha $$ articoli errati.

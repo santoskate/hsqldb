@@ -1,0 +1,12 @@
+#
+#
+#
+#
+# @author CatarinaSantos
+# @version 0.0.1
+#
+# message parts
+0001=Vous êtes le bienvenu!
+0002=Reçu $$ été créé avec succès.
+0003=Reçu $$ a une quantité non valide.
+0004=Reçu $$ dispose de $$ éléments non valides.
